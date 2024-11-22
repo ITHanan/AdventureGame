@@ -1,0 +1,99 @@
+{
+  "Players": [
+    {
+      "Id": 1,
+      "Name": "Arthur",
+      "Points": 10,
+      "Health": 100,
+      "Damage": 15,
+      "Coins": 5,
+      "Weapons": [
+        "Sword",
+        "Shield"
+      ]
+    },
+    {
+      "Id": 2,
+      "Name": "Luna",
+      "Points": 20,
+      "Health": 90,
+      "Damage": 12,
+      "Coins": 10,
+      "Weapons": [
+        "Bow",
+        "Dagger"
+      ]
+    },
+    {
+      "Id": 3,
+      "Name": "Kai",
+      "Points": 15,
+      "Health": 70,
+      "Damage": 20,
+      "Coins": 8,
+      "Weapons": [
+        "Axe",
+        "Hammer"
+      ]
+    },
+    {
+      "Id": 4,
+      "Name": "Mara",
+      "Points": 25,
+      "Health": 120,
+      "Damage": 10,
+      "Coins": 12,
+      "Weapons": [
+        "Staff",
+        "Magic Orb"
+      ]
+    },
+    {
+      "Id": 5,
+      "Name": "Theo",
+      "Points": 10,
+      "Health": 95,
+      "Damage": 18,
+      "Coins": 7,
+      "Weapons": [
+        "Spear",
+        "Knife"
+      ]
+    },
+    {
+      "Id": 6,
+      "Name": "Pax",
+      "Points": 20,
+      "Health": 12,
+      "Damage": 2,
+      "Coins": 34,
+      "Weapons": [
+        "Spear",
+        "Knife"
+      ]
+    },
+    {
+      "Id": 7,
+      "Name": "Arthur",
+      "Points": 58,
+      "Health": 10,
+      "Damage": 30,
+      "Coins": 90,
+      "Weapons": null
+    }
+  ],
+  "Enemy": [
+    {
+      "Id": 1,
+      "Name": "Dark Warlord",
+      "Health": 150,
+      "Damage": 25,
+      "Level": 5,
+      "Abilities": [
+        "Shadow Strike",
+        "Poison Cloud",
+        "Summon Minions"
+      ]
+    }
+  ]
+}
