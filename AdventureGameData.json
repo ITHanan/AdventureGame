@@ -33,14 +33,16 @@
       "Coins": 8,
       "Weapons": [
         "Axe",
-        "Hammer"
+        "Hammer",
+        "Hammer",
+        ""
       ]
     },
     {
       "Id": 4,
       "Name": "Mara",
       "Points": 25,
-      "Health": 120,
+      "Health": 100,
       "Damage": 10,
       "Coins": 12,
       "Weapons": [
@@ -61,25 +63,17 @@
       ]
     },
     {
-      "Id": 6,
-      "Name": "Pax",
-      "Points": 20,
-      "Health": 12,
-      "Damage": 2,
-      "Coins": 34,
-      "Weapons": [
-        "Spear",
-        "Knife"
-      ]
-    },
-    {
       "Id": 7,
       "Name": "Arthur",
       "Points": 58,
       "Health": 10,
       "Damage": 30,
       "Coins": 90,
-      "Weapons": null
+      "Weapons": [
+        "Spear",
+        "Knife",
+        "Hammer"
+      ]
     }
   ],
   "Enemy": [
