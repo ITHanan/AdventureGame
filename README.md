@@ -16,6 +16,7 @@
 
 🚀 Features
 
+
 ✅ Choose your player – Select a warrior and embark on an adventure! 🏆
 ✅ Attack and defend – Battle against enemies and other players! ⚔️
 ✅ Collect coins & weapons – Gain rewards and upgrade your inventory! 💰
@@ -34,6 +35,7 @@ $ cd AdventureGame
 $ dotnet run
 
 🎮 How to Play
+
 
 1️⃣ Start the game and select a player.
 2️⃣ Perform actions such as attacking, collecting weapons, or viewing stats.
